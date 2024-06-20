@@ -9,7 +9,7 @@ This operating system is designed and implemented to run Java projects based on 
 In this operating system, there is no news of the `GNU` project anymore, and all control and management of the operating system is done through `Java`.    
 The init program is rewritten with `rust` programming language.     
 
-
+---
 <p align="center">
   <img src="./pictures/p2.png" alt="JOS"/>
 </p>
