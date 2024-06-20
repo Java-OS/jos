@@ -48,8 +48,8 @@ Current Features :
 * **Admin web panel (default port 7080)**
 
 ### Donat
-this is my cryptocurrency wallet address .
-Please help me to buy equipments 
+This is my cryptocurrency wallet address.    
+Please help me to buy equipments.   
 
 <p align="center">
   <img src="./pictures/erc20_wallet_address.png" alt="JOS" width="250"/>
